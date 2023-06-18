@@ -2,7 +2,7 @@
 - 👀 I’m interested in Beautiful Designs
 - 🌱 I’m currently learning Python, Javascript.
 - 💞️ I’m looking to collaborate on 'Things that excite me.' Do you have one? 👇
-- 📫 How to reach me        dev.mmv@gmail.com                   👈👈👈👈👈👈
+- 📫 How to reach me 👉👉👉&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i>dev.mmv@gmail.com</i></b> &nbsp; &nbsp; &nbsp;  &nbsp;👈👈👈
 
 [![Murali M V P stats!](https://github-readme-stats.vercel.app/api?username=mmv-dev&show_icons=True&theme=radical)](https://github.com/mmv-dev) 
 
