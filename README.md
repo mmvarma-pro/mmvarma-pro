@@ -25,8 +25,8 @@ Hi, I'm **Murali Manohar Varma P**, a **Senior Software Engineer** who thrives o
 ## 🌐 Let's Connect
 
 - **LinkedIn**: [Murali Manohar Varma](https://www.linkedin.com/in/mmvarma)
-- **GitHub**: [mmv-dev](https://github.com/mmv-dev)
-- **Website**: [PyBOTs LLC](https://www.pybots.ai/)
+- **GitHub**: [mmvarma-pro](https://github.com/mmvarma-pro)
+- **Website**: [PyBOTs LLC](https://mmvarma.pro/)
 
 ---
 
